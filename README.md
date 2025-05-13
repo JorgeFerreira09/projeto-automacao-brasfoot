@@ -1,34 +1,42 @@
 <h1 align="center"> Projeto de Automação Brasfoot </h1>
 </br>
+
+## Contexto:
+
 <p> Este projeto não é de curso nem uma cópia de terceiros. </p>
 
 <p> Criado para acabar com um processo repetitivo e monótono dentro do Brasfoot (um jogo no qual você assume o papel de técnico e dirigente de um clube de futebol). Essa automação em Python serve para gerenciar a categoria de base de um clube de forma rápida e inteligente. </p> 
 
 <p> O código irá fazer uma análise do elenco da categoria de base, dispensar os atletas de baixo desempenho e manter somente os craques. </p>
 
+<br>
+
+## Ferramentas Utilizadas  <br>
+
+☑️ Python: <br>
+&nbsp; &nbsp; &nbsp; Linguagem de programação.
+
+☑️ PyAutoGUI: <br>
+&nbsp; &nbsp; &nbsp; Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
+
+☑️ Time: <br>
+&nbsp; &nbsp; &nbsp; Biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
+
 </br>
 
-### __Bibliotecas Utilizadas:__ ###  
+## Funcionalidades do Código:
 
-__PyAutoGUI__ </br>
-Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
+🟣 Navega automaticamente até a tela da categoria de base de um clube.
 
-__Time__ </br>
-É uma biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
+🟣 Analisa visualmente os atributos de cada jogador para determinar se ele é talentoso ou não.
 
-</br>
+🟣 Identifica os jogadores com baixo ou elevado desempenho. 
 
-### Funcionalidades do Código: ###
+🟣 Dispensa os jogadores menos habilidosos, mantendo apenas os craques na base.
 
-* Navega automaticamente até a tela da categoria de base de um clube.
+<br>
 
-* Analisa visualmente os atributos de cada jogador para determinar se ele é talentoso ou não.
-
-* Identifica os jogadores com baixo ou elevado desempenho. 
-
-* Dispensa os jogadores menos habilidosos, mantendo apenas os craques na base.
-
-### Código:
+### Código Completo:
 ```
 import pyautogui
 import time
