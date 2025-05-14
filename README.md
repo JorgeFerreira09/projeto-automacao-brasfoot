@@ -3,7 +3,7 @@
 
 ## Contexto:
 
-<p> Este projeto não é de curso nem uma cópia de terceiros. </p>
+<p> Este projeto não é de curso nem uma cópia de terceiros! </p>
 
 <p> Criado para acabar com um processo repetitivo e monótono dentro do Brasfoot (um jogo no qual você assume o papel de técnico e dirigente de um clube de futebol). Essa automação em Python serve para gerenciar a categoria de base de um clube de forma rápida e inteligente. </p> 
 
@@ -35,7 +35,7 @@ Biblioteca padrão do python utilizada para criar pausas entre as ações, garan
 
 <br>
 
-### Código Completo:
+### Código em Python
 ```
 import pyautogui
 import time
