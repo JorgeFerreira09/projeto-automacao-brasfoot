@@ -3,11 +3,11 @@
 
 ## Contexto:
 
-<p> Este projeto não é de curso nem uma cópia de terceiros! </p>
+Este projeto não é de curso nem uma cópia de terceiros!
 
-<p> Pra quem não conhece, o **Brasfoot** é um jogo que fez sucesso no início dos anos 2000 e marcou a infância de muitas pessoas. Embora ainda esteja ativo, apresenta limitações e mecânicas bem repetitivas. Nele, você comanda um time de futebol como técnico e dirigente. </p> 
+Pra quem não conhece, o Brasfoot é um jogo que fez sucesso no início dos anos 2000 e marcou a infância de muitas pessoas. Embora ainda esteja ativo, apresenta limitações e mecânicas bem repetitivas. Nele, você comanda um time de futebol como técnico e dirigente.
 
-<p> Essa automação em Python foi criada para facilitar a análise do elenco da categoria de base, dispensando automaticamente os atletas de baixo desempenho e mantendo apenas os craques, tudo isso de forma rápida e inteligente.  </p>
+Essa automação em Python foi criada para facilitar a análise do elenco da categoria de base, dispensando automaticamente os atletas de baixo desempenho e mantendo apenas os craques, tudo isso de forma rápida e inteligente.
 
 <br>
 
