@@ -5,9 +5,9 @@
 
 <p> Este projeto não é de curso nem uma cópia de terceiros! </p>
 
-<p> Criado para acabar com um processo repetitivo e monótono dentro do Brasfoot (um jogo no qual você assume o papel de técnico e dirigente de um clube de futebol). Essa automação em Python serve para gerenciar a categoria de base de um clube de forma rápida e inteligente. </p> 
+<p> Pra quem não conhece, o **Brasfoot** é um jogo que fez sucesso no início dos anos 2000 e marcou a infância de muitas pessoas. Embora ainda esteja ativo, apresenta limitações e mecânicas bem repetitivas. Nele, você comanda um time de futebol como técnico e dirigente. </p> 
 
-<p> O código irá fazer uma análise do elenco da categoria de base, dispensar os atletas de baixo desempenho e manter somente os craques. </p>
+<p> Essa automação em Python foi criada para facilitar a análise do elenco da categoria de base, dispensando automaticamente os atletas de baixo desempenho e mantendo apenas os craques, tudo isso de forma rápida e inteligente.  </p>
 
 <br>
 
