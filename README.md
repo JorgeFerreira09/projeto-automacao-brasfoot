@@ -13,14 +13,13 @@
 
 ## Ferramentas Utilizadas  <br>
 
-☑️ Python: <br>
-&nbsp; &nbsp; &nbsp; Linguagem de programação.
+- **Python**
 
-☑️ PyAutoGUI: <br>
-&nbsp; &nbsp; &nbsp; Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
+- **PyAutoGUI** <br>
+Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
 
-☑️ Time: <br>
-&nbsp; &nbsp; &nbsp; Biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
+- **Time** <br>
+Biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
 
 </br>
 
