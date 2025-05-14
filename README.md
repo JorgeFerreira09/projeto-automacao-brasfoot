@@ -1,29 +1,20 @@
 <h1 align="center"> Projeto de Automação Brasfoot </h1>
 </br>
 
-## Contexto:
+## Contexto
 
 Este projeto não é de curso nem uma cópia de terceiros!
 
-Pra quem não conhece, o Brasfoot é um jogo que fez sucesso no início dos anos 2000 e marcou a infância de muitas pessoas. Embora ainda esteja ativo, apresenta limitações e mecânicas bem repetitivas. Nele, você comanda um time de futebol como técnico e dirigente.
-
-Essa automação em Python foi criada para facilitar a análise do elenco da categoria de base, dispensando automaticamente os atletas de baixo desempenho e mantendo apenas os craques, tudo isso de forma rápida e inteligente.
+Brasfoot é um jogo em que você assume o papel de treinador e dirigente de um time de futebol. Porém, o gerenciamento da categoria de base possui limitações, com mecânicas bem repetitivas que tornam a experiência do usuário cansativa. Para resolver isso, desenvolvi um script em Python.  
 
 <br>
 
-## Ferramentas Utilizadas  <br>
+## Objetivo
+Essa automação em Python analisa o elenco da categoria de base, dispensa automaticamente os atletas de baixo desempenho e mantém apenas os craques em segundos. 
 
-- **Python**
+<br>
 
-- **PyAutoGUI** <br>
-Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
-
-- **Time** <br>
-Biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
-
-</br>
-
-## Funcionalidades do Código:
+## Passo a passo do código
 
 🟣 Navega automaticamente até a tela da categoria de base de um clube.
 
@@ -32,6 +23,18 @@ Biblioteca padrão do python utilizada para criar pausas entre as ações, garan
 🟣 Identifica os jogadores com baixo ou elevado desempenho. 
 
 🟣 Dispensa os jogadores menos habilidosos, mantendo apenas os craques na base.
+
+<br>
+
+## Ferramentas <br>
+
+- **Python**
+
+- **PyAutoGUI** <br>
+Biblioteca Python usada para automatizar a interação com a interface gráfica, simulando movimentos e cliques do mouse. 
+
+- **Time** <br>
+Biblioteca padrão do python utilizada para criar pausas entre as ações, garantindo um fluxo suave entre cliques e análises.
 
 <br>
 
