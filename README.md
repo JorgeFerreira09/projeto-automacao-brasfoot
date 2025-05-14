@@ -10,7 +10,7 @@ Brasfoot é um jogo em que você assume o papel de treinador e dirigente de um t
 <br>
 
 ## Objetivo
-Essa automação em Python analisa o elenco da categoria de base, dispensa automaticamente os atletas de baixo desempenho e mantém apenas os craques em segundos. 
+Essa automação em Python analisa o elenco da categoria de base em segundos, dispensa automaticamente os atletas de baixo desempenho e mantém apenas os craques. 
 
 <br>
 
